@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/466/problem/A" target="_blank" rel="noopener noreferrer">466A — Cheap Travel</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1200 |
+| **Language** | Java 21 |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 466A](https://codeforces.com/contest/466/problem/A) |
+
+## Topics
+`implementation`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Cheap Travel</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard" style="font-weight: bold"><div class="property-title">input</div>stdin</div><div class="output-file output-standard" style="font-weight: bold"><div class="property-title">output</div>stdout</div></div><div><p>Ann has recently started commuting by subway. We know that a one ride subway ticket costs <span class="tex-span"><i>a</i></span> rubles. Besides, Ann found out that she can buy a special ticket for <span class="tex-span"><i>m</i></span> rides (she can buy it several times). It costs <span class="tex-span"><i>b</i></span> rubles. Ann did the math; she will need to use subway <span class="tex-span"><i>n</i></span> times. Help Ann, tell her what is the minimum sum of money she will have to spend to make <span class="tex-span"><i>n</i></span> rides?</p></div><div class="input-specification"><div class="section-title">Input</div><p>The single line contains four space-separated integers <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>m</i></span>, <span class="tex-span"><i>a</i></span>, <span class="tex-span"><i>b</i></span> (<span class="tex-span">1 ≤ <i>n</i>, <i>m</i>, <i>a</i>, <i>b</i> ≤ 1000</span>) — the number of rides Ann has planned, the number of rides covered by the <span class="tex-span"><i>m</i></span> ride ticket, the price of a one ride ticket and the price of an <span class="tex-span"><i>m</i></span> ride ticket. </p></div><div class="output-specification"><div class="section-title">Output</div><p>Print a single integer — the minimum sum in rubles that Ann will need to spend.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id00351103945993787" id="id005913308275876616" class="input-output-copier">Copy</div></div><pre id="id00351103945993787">6 2 1 2<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0012006904602924562" id="id00023817900475499365" class="input-output-copier">Copy</div></div><pre id="id0012006904602924562">6<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id006809325156205848" id="id007501176549803148" class="input-output-copier">Copy</div></div><pre id="id006809325156205848">5 2 2 3<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0012069700805289074" id="id0039343886521958193" class="input-output-copier">Copy</div></div><pre id="id0012069700805289074">8<br></pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first sample one of the optimal solutions is: each time buy a one ride ticket. There are other optimal solutions. For example, buy three <span class="tex-span"><i>m</i></span> ride tickets.</p></div>
