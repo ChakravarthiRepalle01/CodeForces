@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 259 | 24 |
+| 260 | 24 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (3)
 - [binary search](#binary-search) (16)
 - [bitmasks](#bitmasks) (11)
-- [brute force](#brute-force) (55)
+- [brute force](#brute-force) (56)
 - [combinatorics](#combinatorics) (6)
 - [constructive algorithms](#constructive-algorithms) (36)
 - [data structures](#data-structures) (14)
@@ -27,8 +27,8 @@
 - [graph matchings](#graph-matchings) (2)
 - [greedy](#greedy) (93)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (103)
-- [math](#math) (105)
+- [implementation](#implementation) (104)
+- [math](#math) (106)
 - [number theory](#number-theory) (24)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
@@ -117,6 +117,7 @@
 | 1789A | [Serval and Mocha's Array](https://codeforces.com/contest/1789/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1789/A%20-%20Serval%20and%20Mocha's%20Array/solution.cpp) |
 | 1791D | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1791/D%20-%20Distinct%20Split/solution.cpp) |
 | 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.cpp) |
+| 1846E1 | [Rudolf and Snowflakes (simple version)](https://codeforces.com/contest/1846/problem/E1) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1846/E1%20-%20Rudolf%20and%20Snowflakes%20(simple%20version)/solution.java) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
@@ -476,6 +477,7 @@
 | 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1814/A%20-%20Coins/solution.cpp) |
 | 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1829/B%20-%20Blank%20Space/solution.cpp) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
+| 1846E1 | [Rudolf and Snowflakes (simple version)](https://codeforces.com/contest/1846/problem/E1) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1846/E1%20-%20Rudolf%20and%20Snowflakes%20(simple%20version)/solution.java) |
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.java) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
 | 1873A | [Short Sort](https://codeforces.com/contest/1873/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1873/A%20-%20Short%20Sort/solution.cpp) |
@@ -564,6 +566,7 @@
 | 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.cpp) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.cpp) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
+| 1846E1 | [Rudolf and Snowflakes (simple version)](https://codeforces.com/contest/1846/problem/E1) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1846/E1%20-%20Rudolf%20and%20Snowflakes%20(simple%20version)/solution.java) |
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1849/B%20-%20Monsters/solution.cpp) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
