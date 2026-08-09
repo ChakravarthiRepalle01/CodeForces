@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 268 | 25 |
+| 269 | 25 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (3)
-- [Uncategorized](#uncategorized) (5)
+- [Uncategorized](#uncategorized) (6)
 - [binary search](#binary-search) (17)
 - [bitmasks](#bitmasks) (12)
 - [brute force](#brute-force) (56)
@@ -57,6 +57,7 @@
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | Unrated | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2254/B%20-%20Evanescent/solution.java) |
 | 2254C1 | [Marenol (easy version)](https://codeforces.com/contest/2254/problem/C1) | Unrated | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2254/C1%20-%20Marenol%20(easy%20version)/solution.java) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | Unrated | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.java) |
+| 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | Unrated | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.java) |
 
 ### binary search
 
