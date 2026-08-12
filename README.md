@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 273 | 25 |
+| 274 | 25 |
 
 ---
 
@@ -14,12 +14,12 @@
 
 - [*special](#special) (3)
 - [Uncategorized](#uncategorized) (6)
-- [binary search](#binary-search) (18)
+- [binary search](#binary-search) (19)
 - [bitmasks](#bitmasks) (13)
 - [brute force](#brute-force) (57)
 - [combinatorics](#combinatorics) (8)
 - [constructive algorithms](#constructive-algorithms) (38)
-- [data structures](#data-structures) (16)
+- [data structures](#data-structures) (17)
 - [dfs and similar](#dfs-and-similar) (3)
 - [dp](#dp) (21)
 - [dsu](#dsu) (2)
@@ -29,14 +29,14 @@
 - [greedy](#greedy) (96)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (104)
-- [math](#math) (110)
+- [math](#math) (111)
 - [number theory](#number-theory) (26)
 - [probabilities](#probabilities) (2)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (35)
 - [strings](#strings) (36)
 - [ternary search](#ternary-search) (1)
-- [two pointers](#two-pointers) (14)
+- [two pointers](#two-pointers) (15)
 
 ---
 
@@ -73,6 +73,7 @@
 | 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.java) |
 | 1354B | [Ternary String](https://codeforces.com/contest/1354/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1354/B%20-%20Ternary%20String/solution.java) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
+| 1538C | [Number of Pairs](https://codeforces.com/contest/1538/problem/C) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1538/C%20-%20Number%20of%20Pairs/solution.java) |
 | 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.java) |
 | 1692E | [Binary Deque](https://codeforces.com/contest/1692/problem/E) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1692/E%20-%20Binary%20Deque/solution.java) |
 | 1703F | [Yet Another Problem About Pairs Satisfying an Inequality](https://codeforces.com/contest/1703/problem/F) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1703/F%20-%20Yet%20Another%20Problem%20About%20Pairs%20Satisfying%20an%20Inequality/solution.java) |
@@ -230,6 +231,7 @@
 | 1380A | [Three Indices](https://codeforces.com/contest/1380/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1380/A%20-%20Three%20Indices/solution.cpp) |
 | 1398C | [Good Subarrays](https://codeforces.com/contest/1398/problem/C) | 1600 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1398/C%20-%20Good%20Subarrays/solution.java) |
 | 1520D | [Same Differences](https://codeforces.com/contest/1520/problem/D) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1520/D%20-%20Same%20Differences/solution.java) |
+| 1538C | [Number of Pairs](https://codeforces.com/contest/1538/problem/C) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1538/C%20-%20Number%20of%20Pairs/solution.java) |
 | 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.java) |
 | 1703F | [Yet Another Problem About Pairs Satisfying an Inequality](https://codeforces.com/contest/1703/problem/F) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1703/F%20-%20Yet%20Another%20Problem%20About%20Pairs%20Satisfying%20an%20Inequality/solution.java) |
 | 1800D | [Remove Two Letters](https://codeforces.com/contest/1800/problem/D) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1800/D%20-%20Remove%20Two%20Letters/solution.java) |
@@ -571,6 +573,7 @@
 | 1514B | [AND 0, Sum Big](https://codeforces.com/contest/1514/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1514/B%20-%20AND%200%2C%20Sum%20Big/solution.java) |
 | 1520D | [Same Differences](https://codeforces.com/contest/1520/problem/D) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1520/D%20-%20Same%20Differences/solution.java) |
 | 1537B | [Bad Boy](https://codeforces.com/contest/1537/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1537/B%20-%20Bad%20Boy/solution.cpp) |
+| 1538C | [Number of Pairs](https://codeforces.com/contest/1538/problem/C) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1538/C%20-%20Number%20of%20Pairs/solution.java) |
 | 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.cpp) |
 | 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.cpp) |
 | 1582B | [Luntik and Subsequences](https://codeforces.com/contest/1582/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1582/B%20-%20Luntik%20and%20Subsequences/solution.cpp) |
@@ -780,6 +783,7 @@
 | 600B | [Queries about less or equal elements](https://codeforces.com/contest/600/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/600/B%20-%20Queries%20about%20less%20or%20equal%20elements/solution.java) |
 | 1343C | [Alternating Subsequence](https://codeforces.com/contest/1343/problem/C) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1343/C%20-%20Alternating%20Subsequence/solution.java) |
 | 1354B | [Ternary String](https://codeforces.com/contest/1354/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1354/B%20-%20Ternary%20String/solution.java) |
+| 1538C | [Number of Pairs](https://codeforces.com/contest/1538/problem/C) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1538/C%20-%20Number%20of%20Pairs/solution.java) |
 | 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.java) |
 | 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.cpp) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.cpp) |
