@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 276 | 25 |
+| 277 | 25 |
 
 ---
 
@@ -14,10 +14,10 @@
 
 - [*special](#special) (3)
 - [Uncategorized](#uncategorized) (6)
-- [binary search](#binary-search) (19)
+- [binary search](#binary-search) (20)
 - [bitmasks](#bitmasks) (13)
-- [brute force](#brute-force) (57)
-- [combinatorics](#combinatorics) (8)
+- [brute force](#brute-force) (58)
+- [combinatorics](#combinatorics) (9)
 - [constructive algorithms](#constructive-algorithms) (38)
 - [data structures](#data-structures) (17)
 - [dfs and similar](#dfs-and-similar) (3)
@@ -28,8 +28,8 @@
 - [graph matchings](#graph-matchings) (2)
 - [greedy](#greedy) (98)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (105)
-- [math](#math) (111)
+- [implementation](#implementation) (106)
+- [math](#math) (112)
 - [number theory](#number-theory) (26)
 - [probabilities](#probabilities) (2)
 - [schedules](#schedules) (1)
@@ -70,6 +70,7 @@
 | 637B | [Chat Order](https://codeforces.com/contest/637/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/637/B%20-%20Chat%20Order/solution.java) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 8](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
 | 816B | [Karen and Coffee](https://codeforces.com/contest/816/problem/B) | 1400 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/816/B%20-%20Karen%20and%20Coffee/solution.java) |
+| 1328B | [K-th Beautiful String](https://codeforces.com/contest/1328/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1328/B%20-%20K-th%20Beautiful%20String/solution.java) |
 | 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.java) |
 | 1354B | [Ternary String](https://codeforces.com/contest/1354/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1354/B%20-%20Ternary%20String/solution.java) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
@@ -119,6 +120,7 @@
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/479/A%20-%20Expression/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 1097B | [Petr and a Combination Lock](https://codeforces.com/contest/1097/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1097/B%20-%20Petr%20and%20a%20Combination%20Lock/solution.java) |
+| 1328B | [K-th Beautiful String](https://codeforces.com/contest/1328/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1328/B%20-%20K-th%20Beautiful%20String/solution.java) |
 | 1355A | [Sequence with Digits](https://codeforces.com/contest/1355/problem/A) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1355/A%20-%20Sequence%20with%20Digits/solution.java) |
 | 1363A | [Odd Selection](https://codeforces.com/contest/1363/problem/A) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1363/A%20-%20Odd%20Selection/solution.java) |
 | 1380A | [Three Indices](https://codeforces.com/contest/1380/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1380/A%20-%20Three%20Indices/solution.cpp) |
@@ -170,6 +172,7 @@
 | 459B | [Pashmak and Flowers](https://codeforces.com/contest/459/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/459/B%20-%20Pashmak%20and%20Flowers/solution.java) |
 | 476B | [Dreamoon and WiFi](https://codeforces.com/contest/476/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/476/B%20-%20Dreamoon%20and%20WiFi/solution.java) |
 | 478B | [Random Teams](https://codeforces.com/contest/478/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/478/B%20-%20Random%20Teams/solution.java) |
+| 1328B | [K-th Beautiful String](https://codeforces.com/contest/1328/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1328/B%20-%20K-th%20Beautiful%20String/solution.java) |
 | 1514B | [AND 0, Sum Big](https://codeforces.com/contest/1514/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1514/B%20-%20AND%200%2C%20Sum%20Big/solution.java) |
 | 1582B | [Luntik and Subsequences](https://codeforces.com/contest/1582/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1582/B%20-%20Luntik%20and%20Subsequences/solution.cpp) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.cpp) |
@@ -481,6 +484,7 @@
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.cpp) |
 | 1141A | [Game 23](https://codeforces.com/contest/1141/problem/A) | 1000 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1141/A%20-%20Game%2023/solution.java) |
 | 1285B | [Just Eat It!](https://codeforces.com/contest/1285/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1285/B%20-%20Just%20Eat%20It!/solution.java) |
+| 1328B | [K-th Beautiful String](https://codeforces.com/contest/1328/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1328/B%20-%20K-th%20Beautiful%20String/solution.java) |
 | 1354B | [Ternary String](https://codeforces.com/contest/1354/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1354/B%20-%20Ternary%20String/solution.java) |
 | 1355A | [Sequence with Digits](https://codeforces.com/contest/1355/problem/A) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1355/A%20-%20Sequence%20with%20Digits/solution.java) |
 | 1363A | [Odd Selection](https://codeforces.com/contest/1363/problem/A) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1363/A%20-%20Odd%20Selection/solution.java) |
@@ -558,6 +562,7 @@
 | 1294C | [Product of Three Numbers](https://codeforces.com/contest/1294/problem/C) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1294/C%20-%20Product%20of%20Three%20Numbers/solution.java) |
 | 1327A | [Sum of Odd Integers](https://codeforces.com/contest/1327/problem/A) | 1100 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1327/A%20-%20Sum%20of%20Odd%20Integers/solution.java) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
+| 1328B | [K-th Beautiful String](https://codeforces.com/contest/1328/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1328/B%20-%20K-th%20Beautiful%20String/solution.java) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
 | 1352B | [Same Parity Summands](https://codeforces.com/contest/1352/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1352/B%20-%20Same%20Parity%20Summands/solution.java) |
 | 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.java) |
