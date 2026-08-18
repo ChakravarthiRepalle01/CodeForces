@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 279 | 25 |
+| 280 | 25 |
 
 ---
 
@@ -29,8 +29,8 @@
 - [greedy](#greedy) (98)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (107)
-- [math](#math) (113)
-- [number theory](#number-theory) (26)
+- [math](#math) (114)
+- [number theory](#number-theory) (27)
 - [probabilities](#probabilities) (2)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (35)
@@ -562,6 +562,7 @@
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 1141A | [Game 23](https://codeforces.com/contest/1141/problem/A) | 1000 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1141/A%20-%20Game%2023/solution.java) |
 | 1294C | [Product of Three Numbers](https://codeforces.com/contest/1294/problem/C) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1294/C%20-%20Product%20of%20Three%20Numbers/solution.java) |
+| 1295D | [Same GCDs](https://codeforces.com/contest/1295/problem/D) | 1800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1295/D%20-%20Same%20GCDs/solution.java) |
 | 1327A | [Sum of Odd Integers](https://codeforces.com/contest/1327/problem/A) | 1100 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1327/A%20-%20Sum%20of%20Odd%20Integers/solution.java) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
 | 1328B | [K-th Beautiful String](https://codeforces.com/contest/1328/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1328/B%20-%20K-th%20Beautiful%20String/solution.java) |
@@ -663,6 +664,7 @@
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/230/B%20-%20T-primes/solution.java) |
 | 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.cpp) |
 | 1294C | [Product of Three Numbers](https://codeforces.com/contest/1294/problem/C) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1294/C%20-%20Product%20of%20Three%20Numbers/solution.java) |
+| 1295D | [Same GCDs](https://codeforces.com/contest/1295/problem/D) | 1800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1295/D%20-%20Same%20GCDs/solution.java) |
 | 1360D | [Buying Shovels](https://codeforces.com/contest/1360/problem/D) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1360/D%20-%20Buying%20Shovels/solution.java) |
 | 1471A | [Strange Partition](https://codeforces.com/contest/1471/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1471/A%20-%20Strange%20Partition/solution.cpp) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
