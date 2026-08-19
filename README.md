@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 280 | 25 |
+| 281 | 25 |
 
 ---
 
@@ -28,9 +28,9 @@
 - [graph matchings](#graph-matchings) (2)
 - [greedy](#greedy) (98)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (107)
+- [implementation](#implementation) (108)
 - [math](#math) (114)
-- [number theory](#number-theory) (27)
+- [number theory](#number-theory) (28)
 - [probabilities](#probabilities) (2)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (35)
@@ -475,6 +475,7 @@
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.java) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/520/A%20-%20Pangram/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
+| 577A | [Multiplication Table](https://codeforces.com/contest/577/problem/A) | 1000 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/577/A%20-%20Multiplication%20Table/solution.java) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.cpp) |
 | 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/705/A%20-%20Hulk/solution.cpp) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 8](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
@@ -662,6 +663,7 @@
 |---|---------|------------|----------|
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/122/A%20-%20Lucky%20Division/solution.cpp) |
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/230/B%20-%20T-primes/solution.java) |
+| 577A | [Multiplication Table](https://codeforces.com/contest/577/problem/A) | 1000 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/577/A%20-%20Multiplication%20Table/solution.java) |
 | 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.cpp) |
 | 1294C | [Product of Three Numbers](https://codeforces.com/contest/1294/problem/C) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1294/C%20-%20Product%20of%20Three%20Numbers/solution.java) |
 | 1295D | [Same GCDs](https://codeforces.com/contest/1295/problem/D) | 1800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1295/D%20-%20Same%20GCDs/solution.java) |
