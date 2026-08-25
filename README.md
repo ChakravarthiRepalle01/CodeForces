@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 289 | 25 |
+| 290 | 25 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (3)
-- [Uncategorized](#uncategorized) (6)
+- [Uncategorized](#uncategorized) (7)
 - [binary search](#binary-search) (20)
 - [bitmasks](#bitmasks) (14)
 - [brute force](#brute-force) (59)
@@ -52,6 +52,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1077C | [Good Array](https://codeforces.com/contest/1077/problem/C) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1077/C%20-%20Good%20Array/solution.java) |
 | 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | Unrated | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.java) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2254/A%20-%20Riptide/solution.java) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | Unrated | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2254/B%20-%20Evanescent/solution.java) |
