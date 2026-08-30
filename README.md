@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 295 | 25 |
+| 296 | 25 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [brute force](#brute-force) (59)
 - [combinatorics](#combinatorics) (9)
 - [constructive algorithms](#constructive-algorithms) (41)
-- [data structures](#data-structures) (19)
+- [data structures](#data-structures) (20)
 - [dfs and similar](#dfs-and-similar) (3)
 - [dp](#dp) (23)
 - [dsu](#dsu) (2)
@@ -27,8 +27,8 @@
 - [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (2)
 - [greedy](#greedy) (104)
-- [hashing](#hashing) (2)
-- [implementation](#implementation) (109)
+- [hashing](#hashing) (3)
+- [implementation](#implementation) (110)
 - [math](#math) (121)
 - [number theory](#number-theory) (32)
 - [probabilities](#probabilities) (2)
@@ -235,6 +235,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/4/C%20-%20Registration%20System/solution.java) |
 | 276C | [Little Girl and Maximum Sum](https://codeforces.com/contest/276/problem/C) | 1500 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/276/C%20-%20Little%20Girl%20and%20Maximum%20Sum/solution.java) |
 | 295A | [Greg and Array](https://codeforces.com/contest/295/problem/A) | 1400 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/295/A%20-%20Greg%20and%20Array/solution.java) |
 | 600B | [Queries about less or equal elements](https://codeforces.com/contest/600/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/600/B%20-%20Queries%20about%20less%20or%20equal%20elements/solution.java) |
@@ -440,6 +441,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/4/C%20-%20Registration%20System/solution.java) |
 | 1520D | [Same Differences](https://codeforces.com/contest/1520/problem/D) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1520/D%20-%20Same%20Differences/solution.java) |
 | 1800D | [Remove Two Letters](https://codeforces.com/contest/1800/problem/D) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1800/D%20-%20Remove%20Two%20Letters/solution.java) |
 
@@ -447,6 +449,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/4/C%20-%20Registration%20System/solution.java) |
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/59/A%20-%20Word/solution.java) |
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
