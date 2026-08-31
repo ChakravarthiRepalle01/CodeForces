@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 300 | 26 |
+| 301 | 26 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (9)
 - [binary search](#binary-search) (22)
 - [bitmasks](#bitmasks) (15)
-- [brute force](#brute-force) (60)
+- [brute force](#brute-force) (61)
 - [combinatorics](#combinatorics) (9)
 - [constructive algorithms](#constructive-algorithms) (42)
 - [data structures](#data-structures) (20)
@@ -30,7 +30,7 @@
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (112)
 - [math](#math) (122)
-- [number theory](#number-theory) (32)
+- [number theory](#number-theory) (33)
 - [probabilities](#probabilities) (2)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (39)
@@ -134,6 +134,7 @@
 | 1359A | [Berland Poker](https://codeforces.com/contest/1359/problem/A) | 1000 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1359/A%20-%20Berland%20Poker/solution.java) |
 | 1363A | [Odd Selection](https://codeforces.com/contest/1363/problem/A) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1363/A%20-%20Odd%20Selection/solution.java) |
 | 1380A | [Three Indices](https://codeforces.com/contest/1380/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1380/A%20-%20Three%20Indices/solution.cpp) |
+| 1411B | [Fair Numbers](https://codeforces.com/contest/1411/problem/B) | 1000 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1411/B%20-%20Fair%20Numbers/solution.java) |
 | 1475B | [New Year's Number](https://codeforces.com/contest/1475/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1475/B%20-%20New%20Year's%20Number/solution.cpp) |
 | 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.cpp) |
 | 1506C | [Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1506/C%20-%20Double-ended%20Strings/solution.cpp) |
@@ -708,6 +709,7 @@
 | 1295D | [Same GCDs](https://codeforces.com/contest/1295/problem/D) | 1800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1295/D%20-%20Same%20GCDs/solution.java) |
 | 1360D | [Buying Shovels](https://codeforces.com/contest/1360/problem/D) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1360/D%20-%20Buying%20Shovels/solution.java) |
 | 1372B | [Omkar and Last Class of Math](https://codeforces.com/contest/1372/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1372/B%20-%20Omkar%20and%20Last%20Class%20of%20Math/solution.java) |
+| 1411B | [Fair Numbers](https://codeforces.com/contest/1411/problem/B) | 1000 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1411/B%20-%20Fair%20Numbers/solution.java) |
 | 1471A | [Strange Partition](https://codeforces.com/contest/1471/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1471/A%20-%20Strange%20Partition/solution.cpp) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
