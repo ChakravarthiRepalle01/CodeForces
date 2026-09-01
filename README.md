@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 301 | 26 |
+| 302 | 26 |
 
 ---
 
@@ -28,13 +28,13 @@
 - [graph matchings](#graph-matchings) (2)
 - [greedy](#greedy) (105)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (112)
+- [implementation](#implementation) (113)
 - [math](#math) (122)
 - [number theory](#number-theory) (33)
 - [probabilities](#probabilities) (2)
 - [schedules](#schedules) (1)
-- [sortings](#sortings) (39)
-- [strings](#strings) (37)
+- [sortings](#sortings) (40)
+- [strings](#strings) (38)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (18)
@@ -515,6 +515,7 @@
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.cpp) |
 | 1141A | [Game 23](https://codeforces.com/contest/1141/problem/A) | 1000 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1141/A%20-%20Game%2023/solution.java) |
+| 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.java) |
 | 1285B | [Just Eat It!](https://codeforces.com/contest/1285/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1285/B%20-%20Just%20Eat%20It!/solution.java) |
 | 1328B | [K-th Beautiful String](https://codeforces.com/contest/1328/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1328/B%20-%20K-th%20Beautiful%20String/solution.java) |
 | 1335D | [Anti-Sudoku](https://codeforces.com/contest/1335/problem/D) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1335/D%20-%20Anti-Sudoku/solution.java) |
@@ -764,6 +765,7 @@
 | 600B | [Queries about less or equal elements](https://codeforces.com/contest/600/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/600/B%20-%20Queries%20about%20less%20or%20equal%20elements/solution.java) |
 | 637B | [Chat Order](https://codeforces.com/contest/637/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/637/B%20-%20Chat%20Order/solution.java) |
 | 977C | [Less or Equal](https://codeforces.com/contest/977/problem/C) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/977/C%20-%20Less%20or%20Equal/solution.java) |
+| 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.java) |
 | 1339B | [Sorted Adjacent Differences](https://codeforces.com/contest/1339/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1339/B%20-%20Sorted%20Adjacent%20Differences/solution.java) |
 | 1438B | [Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) | 1000 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1438/B%20-%20Valerii%20Against%20Everyone/solution.java) |
 | 1470A | [Strange Birthday Party](https://codeforces.com/contest/1470/problem/A) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1470/A%20-%20Strange%20Birthday%20Party/solution.java) |
@@ -811,6 +813,7 @@
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/520/A%20-%20Pangram/solution.cpp) |
 | 665C | [Simple Strings](https://codeforces.com/contest/665/problem/C) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/665/C%20-%20Simple%20Strings/solution.java) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
+| 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.java) |
 | 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.java) |
 | 1506C | [Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1506/C%20-%20Double-ended%20Strings/solution.cpp) |
 | 1606A | [AB Balance](https://codeforces.com/contest/1606/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1606/A%20-%20AB%20Balance/solution.cpp) |
