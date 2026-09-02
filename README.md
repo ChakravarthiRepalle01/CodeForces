@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 304 | 26 |
+| 305 | 26 |
 
 ---
 
@@ -21,12 +21,12 @@
 - [constructive algorithms](#constructive-algorithms) (43)
 - [data structures](#data-structures) (20)
 - [dfs and similar](#dfs-and-similar) (3)
-- [dp](#dp) (24)
+- [dp](#dp) (25)
 - [dsu](#dsu) (2)
 - [games](#games) (10)
 - [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (2)
-- [greedy](#greedy) (107)
+- [greedy](#greedy) (108)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (114)
 - [math](#math) (124)
@@ -37,7 +37,7 @@
 - [strings](#strings) (38)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
-- [two pointers](#two-pointers) (18)
+- [two pointers](#two-pointers) (19)
 
 ---
 
@@ -293,6 +293,7 @@
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
 | 1703F | [Yet Another Problem About Pairs Satisfying an Inequality](https://codeforces.com/contest/1703/problem/F) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1703/F%20-%20Yet%20Another%20Problem%20About%20Pairs%20Satisfying%20an%20Inequality/solution.java) |
 | 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1883/C%20-%20Raspberries/solution.cpp) |
+| 1899C | [Yarik and Array](https://codeforces.com/contest/1899/problem/C) | 1100 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1899/C%20-%20Yarik%20and%20Array/solution.java) |
 | 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1914/D%20-%20Three%20Activities/solution.java) |
 | 1927D | [Find the Different Ones!](https://codeforces.com/contest/1927/problem/D) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1927/D%20-%20Find%20the%20Different%20Ones!/solution.java) |
 | 1982C | [Boring Day](https://codeforces.com/contest/1982/problem/C) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1982/C%20-%20Boring%20Day/solution.java) |
@@ -412,6 +413,7 @@
 | 1875A | [Jellyfish and Undertale](https://codeforces.com/contest/1875/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1875/A%20-%20Jellyfish%20and%20Undertale/solution.cpp) |
 | 1876A | [Helmets in Night Light](https://codeforces.com/contest/1876/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1876/A%20-%20Helmets%20in%20Night%20Light/solution.cpp) |
 | 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.cpp) |
+| 1899C | [Yarik and Array](https://codeforces.com/contest/1899/problem/C) | 1100 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1899/C%20-%20Yarik%20and%20Array/solution.java) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
@@ -875,6 +877,7 @@
 | 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.cpp) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.cpp) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.cpp) |
+| 1899C | [Yarik and Array](https://codeforces.com/contest/1899/problem/C) | 1100 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1899/C%20-%20Yarik%20and%20Array/solution.java) |
 | 1927D | [Find the Different Ones!](https://codeforces.com/contest/1927/problem/D) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1927/D%20-%20Find%20the%20Different%20Ones!/solution.java) |
 | 1982C | [Boring Day](https://codeforces.com/contest/1982/problem/C) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1982/C%20-%20Boring%20Day/solution.java) |
 
