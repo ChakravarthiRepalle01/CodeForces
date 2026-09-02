@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 305 | 26 |
+| 306 | 26 |
 
 ---
 
@@ -29,7 +29,7 @@
 - [greedy](#greedy) (108)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (114)
-- [math](#math) (124)
+- [math](#math) (125)
 - [number theory](#number-theory) (33)
 - [probabilities](#probabilities) (2)
 - [schedules](#schedules) (1)
@@ -618,6 +618,7 @@
 | 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.cpp) |
 | 1398C | [Good Subarrays](https://codeforces.com/contest/1398/problem/C) | 1600 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1398/C%20-%20Good%20Subarrays/solution.java) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.cpp) |
+| 1418A | [Buying Torches](https://codeforces.com/contest/1418/problem/A) | 1000 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1418/A%20-%20Buying%20Torches/solution.java) |
 | 1421A | [XORwice](https://codeforces.com/contest/1421/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1421/A%20-%20XORwice/solution.java) |
 | 1440B | [Sum of Medians](https://codeforces.com/contest/1440/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1440/B%20-%20Sum%20of%20Medians/solution.cpp) |
 | 1447B | [Numbers Box](https://codeforces.com/contest/1447/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1447/B%20-%20Numbers%20Box/solution.cpp) |
