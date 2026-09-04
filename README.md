@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 311 | 26 |
+| 312 | 26 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [brute force](#brute-force) (62)
 - [combinatorics](#combinatorics) (9)
 - [constructive algorithms](#constructive-algorithms) (44)
-- [data structures](#data-structures) (21)
+- [data structures](#data-structures) (22)
 - [dfs and similar](#dfs-and-similar) (3)
 - [dp](#dp) (26)
 - [dsu](#dsu) (2)
@@ -33,11 +33,11 @@
 - [number theory](#number-theory) (33)
 - [probabilities](#probabilities) (2)
 - [schedules](#schedules) (1)
-- [sortings](#sortings) (41)
+- [sortings](#sortings) (42)
 - [strings](#strings) (39)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
-- [two pointers](#two-pointers) (20)
+- [two pointers](#two-pointers) (21)
 
 ---
 
@@ -251,6 +251,7 @@
 | 600B | [Queries about less or equal elements](https://codeforces.com/contest/600/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/600/B%20-%20Queries%20about%20less%20or%20equal%20elements/solution.java) |
 | 637B | [Chat Order](https://codeforces.com/contest/637/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/637/B%20-%20Chat%20Order/solution.java) |
 | 816B | [Karen and Coffee](https://codeforces.com/contest/816/problem/B) | 1400 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/816/B%20-%20Karen%20and%20Coffee/solution.java) |
+| 1237B | [Balanced Tunnel](https://codeforces.com/contest/1237/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1237/B%20-%20Balanced%20Tunnel/solution.java) |
 | 1380A | [Three Indices](https://codeforces.com/contest/1380/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1380/A%20-%20Three%20Indices/solution.cpp) |
 | 1398C | [Good Subarrays](https://codeforces.com/contest/1398/problem/C) | 1600 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1398/C%20-%20Good%20Subarrays/solution.java) |
 | 1438B | [Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) | 1000 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1438/B%20-%20Valerii%20Against%20Everyone/solution.java) |
@@ -784,6 +785,7 @@
 | 637B | [Chat Order](https://codeforces.com/contest/637/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/637/B%20-%20Chat%20Order/solution.java) |
 | 977C | [Less or Equal](https://codeforces.com/contest/977/problem/C) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/977/C%20-%20Less%20or%20Equal/solution.java) |
 | 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.java) |
+| 1237B | [Balanced Tunnel](https://codeforces.com/contest/1237/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1237/B%20-%20Balanced%20Tunnel/solution.java) |
 | 1339B | [Sorted Adjacent Differences](https://codeforces.com/contest/1339/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1339/B%20-%20Sorted%20Adjacent%20Differences/solution.java) |
 | 1438B | [Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) | 1000 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1438/B%20-%20Valerii%20Against%20Everyone/solution.java) |
 | 1470A | [Strange Birthday Party](https://codeforces.com/contest/1470/problem/A) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1470/A%20-%20Strange%20Birthday%20Party/solution.java) |
@@ -877,6 +879,7 @@
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.cpp) |
 | 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.java) |
 | 600B | [Queries about less or equal elements](https://codeforces.com/contest/600/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/600/B%20-%20Queries%20about%20less%20or%20equal%20elements/solution.java) |
+| 1237B | [Balanced Tunnel](https://codeforces.com/contest/1237/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1237/B%20-%20Balanced%20Tunnel/solution.java) |
 | 1343C | [Alternating Subsequence](https://codeforces.com/contest/1343/problem/C) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1343/C%20-%20Alternating%20Subsequence/solution.java) |
 | 1354B | [Ternary String](https://codeforces.com/contest/1354/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1354/B%20-%20Ternary%20String/solution.java) |
 | 1366B | [Shuffle](https://codeforces.com/contest/1366/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1366/B%20-%20Shuffle/solution.java) |
