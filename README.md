@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 317 | 26 |
+| 318 | 26 |
 
 ---
 
@@ -19,9 +19,9 @@
 - [brute force](#brute-force) (62)
 - [combinatorics](#combinatorics) (9)
 - [constructive algorithms](#constructive-algorithms) (44)
-- [data structures](#data-structures) (22)
+- [data structures](#data-structures) (23)
 - [dfs and similar](#dfs-and-similar) (3)
-- [dp](#dp) (26)
+- [dp](#dp) (27)
 - [dsu](#dsu) (2)
 - [games](#games) (10)
 - [geometry](#geometry) (2)
@@ -252,6 +252,7 @@
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/4/C%20-%20Registration%20System/solution.java) |
 | 276C | [Little Girl and Maximum Sum](https://codeforces.com/contest/276/problem/C) | 1500 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/276/C%20-%20Little%20Girl%20and%20Maximum%20Sum/solution.java) |
 | 295A | [Greg and Array](https://codeforces.com/contest/295/problem/A) | 1400 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/295/A%20-%20Greg%20and%20Array/solution.java) |
+| 368B | [Sereja and Suffixes](https://codeforces.com/contest/368/problem/B) | 1100 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/368/B%20-%20Sereja%20and%20Suffixes/solution.java) |
 | 600B | [Queries about less or equal elements](https://codeforces.com/contest/600/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/600/B%20-%20Queries%20about%20less%20or%20equal%20elements/solution.java) |
 | 637B | [Chat Order](https://codeforces.com/contest/637/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/637/B%20-%20Chat%20Order/solution.java) |
 | 816B | [Karen and Coffee](https://codeforces.com/contest/816/problem/B) | 1400 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/816/B%20-%20Karen%20and%20Coffee/solution.java) |
@@ -286,6 +287,7 @@
 |---|---------|------------|----------|
 | 189A | [Cut Ribbon](https://codeforces.com/contest/189/problem/A) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/189/A%20-%20Cut%20Ribbon/solution.java) |
 | 327A | [Flipping Game](https://codeforces.com/contest/327/problem/A) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/327/A%20-%20Flipping%20Game/solution.java) |
+| 368B | [Sereja and Suffixes](https://codeforces.com/contest/368/problem/B) | 1100 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/368/B%20-%20Sereja%20and%20Suffixes/solution.java) |
 | 433B | [Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/433/B%20-%20Kuriyama%20Mirai's%20Stones/solution.java) |
 | 476B | [Dreamoon and WiFi](https://codeforces.com/contest/476/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/476/B%20-%20Dreamoon%20and%20WiFi/solution.java) |
 | 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.java) |
