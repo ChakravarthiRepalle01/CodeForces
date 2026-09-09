@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 320 | 26 |
+| 321 | 26 |
 
 ---
 
@@ -29,7 +29,7 @@
 - [greedy](#greedy) (110)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (117)
-- [math](#math) (127)
+- [math](#math) (128)
 - [number theory](#number-theory) (33)
 - [probabilities](#probabilities) (2)
 - [schedules](#schedules) (1)
@@ -726,6 +726,7 @@
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | Unrated | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.java) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | Unrated | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.java) |
 | 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | Unrated | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.java) |
+| 2260B | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | Unrated | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2260/B%20-%20Monocarp%20and%20Projects/solution.java) |
 
 ### number theory
 
