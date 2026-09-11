@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 322 | 26 |
+| 323 | 26 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [bitmasks](#bitmasks) (15)
 - [brute force](#brute-force) (62)
 - [combinatorics](#combinatorics) (9)
-- [constructive algorithms](#constructive-algorithms) (44)
+- [constructive algorithms](#constructive-algorithms) (45)
 - [data structures](#data-structures) (23)
 - [dfs and similar](#dfs-and-similar) (3)
 - [dp](#dp) (27)
@@ -28,7 +28,7 @@
 - [graph matchings](#graph-matchings) (2)
 - [greedy](#greedy) (111)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (117)
+- [implementation](#implementation) (118)
 - [math](#math) (129)
 - [number theory](#number-theory) (33)
 - [probabilities](#probabilities) (2)
@@ -209,6 +209,7 @@
 | 1335D | [Anti-Sudoku](https://codeforces.com/contest/1335/problem/D) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1335/D%20-%20Anti-Sudoku/solution.java) |
 | 1339B | [Sorted Adjacent Differences](https://codeforces.com/contest/1339/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1339/B%20-%20Sorted%20Adjacent%20Differences/solution.java) |
 | 1352B | [Same Parity Summands](https://codeforces.com/contest/1352/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1352/B%20-%20Same%20Parity%20Summands/solution.java) |
+| 1365B | [Trouble Sort](https://codeforces.com/contest/1365/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1365/B%20-%20Trouble%20Sort/solution.java) |
 | 1438B | [Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) | 1000 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1438/B%20-%20Valerii%20Against%20Everyone/solution.java) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
 | 1504B | [Flip the Bits](https://codeforces.com/contest/1504/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1504/B%20-%20Flip%20the%20Bits/solution.java) |
@@ -544,6 +545,7 @@
 | 1354B | [Ternary String](https://codeforces.com/contest/1354/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1354/B%20-%20Ternary%20String/solution.java) |
 | 1355A | [Sequence with Digits](https://codeforces.com/contest/1355/problem/A) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1355/A%20-%20Sequence%20with%20Digits/solution.java) |
 | 1363A | [Odd Selection](https://codeforces.com/contest/1363/problem/A) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1363/A%20-%20Odd%20Selection/solution.java) |
+| 1365B | [Trouble Sort](https://codeforces.com/contest/1365/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1365/B%20-%20Trouble%20Sort/solution.java) |
 | 1504B | [Flip the Bits](https://codeforces.com/contest/1504/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1504/B%20-%20Flip%20the%20Bits/solution.java) |
 | 1506C | [Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1506/C%20-%20Double-ended%20Strings/solution.cpp) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
