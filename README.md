@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 334 | 26 |
+| 335 | 26 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (3)
-- [Uncategorized](#uncategorized) (18)
+- [Uncategorized](#uncategorized) (19)
 - [binary search](#binary-search) (23)
 - [bitmasks](#bitmasks) (15)
 - [brute force](#brute-force) (66)
@@ -71,6 +71,7 @@
 | 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | Unrated | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2266/A%20-%20Good%20Contest/solution.java) |
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2266/B%20-%20Three%20Piles/solution.java) |
 | 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | Unrated | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.java) |
+| 2266D | [Falling Concrete](https://codeforces.com/contest/2266/problem/D) | Unrated | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2266/D%20-%20Falling%20Concrete/solution.java) |
 
 ### binary search
 
