@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 337 | 26 |
+| 338 | 26 |
 
 ---
 
@@ -19,21 +19,21 @@
 - [brute force](#brute-force) (66)
 - [combinatorics](#combinatorics) (9)
 - [constructive algorithms](#constructive-algorithms) (47)
-- [data structures](#data-structures) (23)
+- [data structures](#data-structures) (24)
 - [dfs and similar](#dfs-and-similar) (3)
 - [dp](#dp) (28)
 - [dsu](#dsu) (2)
 - [games](#games) (10)
 - [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (2)
-- [greedy](#greedy) (113)
+- [greedy](#greedy) (114)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (122)
 - [math](#math) (134)
 - [number theory](#number-theory) (35)
 - [probabilities](#probabilities) (2)
 - [schedules](#schedules) (1)
-- [sortings](#sortings) (45)
+- [sortings](#sortings) (46)
 - [strings](#strings) (40)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
@@ -284,6 +284,7 @@
 | 1915E | [Romantic Glasses](https://codeforces.com/contest/1915/problem/E) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1915/E%20-%20Romantic%20Glasses/solution.java) |
 | 1927D | [Find the Different Ones!](https://codeforces.com/contest/1927/problem/D) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1927/D%20-%20Find%20the%20Different%20Ones!/solution.java) |
 | 1982C | [Boring Day](https://codeforces.com/contest/1982/problem/C) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1982/C%20-%20Boring%20Day/solution.java) |
+| 2126D | [This Is the Last Time](https://codeforces.com/contest/2126/problem/D) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2126/D%20-%20This%20Is%20the%20Last%20Time/solution.java) |
 | 2193C | [Replace and Sum](https://codeforces.com/contest/2193/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2193/C%20-%20Replace%20and%20Sum/solution.cpp) |
 
 ### dfs and similar
@@ -458,6 +459,7 @@
 | 2069A | [Was there an Array?](https://codeforces.com/contest/2069/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2069/A%20-%20Was%20there%20an%20Array%3F/solution.cpp) |
 | 2114C | [Need More Arrays](https://codeforces.com/contest/2114/problem/C) | 1000 | [Java 8](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2114/C%20-%20Need%20More%20Arrays/solution.java) |
 | 2123D | [Binary String Battle](https://codeforces.com/contest/2123/problem/D) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2123/D%20-%20Binary%20String%20Battle/solution.java) |
+| 2126D | [This Is the Last Time](https://codeforces.com/contest/2126/problem/D) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2126/D%20-%20This%20Is%20the%20Last%20Time/solution.java) |
 | 2166A | [Same Difference](https://codeforces.com/contest/2166/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2166/A%20-%20Same%20Difference/solution.cpp) |
 | 2176B | [Optimal Shifts](https://codeforces.com/contest/2176/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2176/B%20-%20Optimal%20Shifts/solution.cpp) |
 | 2185B | [Prefix Max](https://codeforces.com/contest/2185/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2185/B%20-%20Prefix%20Max/solution.cpp) |
@@ -850,6 +852,7 @@
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1914/D%20-%20Three%20Activities/solution.java) |
 | 1971A | [My First Sorting Problem](https://codeforces.com/contest/1971/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1971/A%20-%20My%20First%20Sorting%20Problem/solution.java) |
+| 2126D | [This Is the Last Time](https://codeforces.com/contest/2126/problem/D) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2126/D%20-%20This%20Is%20the%20Last%20Time/solution.java) |
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
 | 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2167/B%20-%20Your%20Name/solution.java) |
 | 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
