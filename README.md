@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 342 | 26 |
+| 343 | 26 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (19)
 - [binary search](#binary-search) (23)
 - [bitmasks](#bitmasks) (15)
-- [brute force](#brute-force) (66)
+- [brute force](#brute-force) (67)
 - [combinatorics](#combinatorics) (10)
 - [constructive algorithms](#constructive-algorithms) (48)
 - [data structures](#data-structures) (25)
@@ -29,8 +29,8 @@
 - [greedy](#greedy) (114)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (125)
-- [math](#math) (135)
-- [number theory](#number-theory) (36)
+- [math](#math) (136)
+- [number theory](#number-theory) (37)
 - [probabilities](#probabilities) (2)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (46)
@@ -176,6 +176,7 @@
 | 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1914/D%20-%20Three%20Activities/solution.java) |
 | 1927D | [Find the Different Ones!](https://codeforces.com/contest/1927/problem/D) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1927/D%20-%20Find%20the%20Different%20Ones!/solution.java) |
 | 1931C | [Make Equal Again](https://codeforces.com/contest/1931/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1931/C%20-%20Make%20Equal%20Again/solution.cpp) |
+| 1968A | [Maximize?](https://codeforces.com/contest/1968/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1968/A%20-%20Maximize%3F/solution.java) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2009/A%20-%20Minimize!/solution.cpp) |
 | 2044A | [Easy Problem](https://codeforces.com/contest/2044/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2044/A%20-%20Easy%20Problem/solution.java) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [Java 8](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.java) |
@@ -742,6 +743,7 @@
 | 1915E | [Romantic Glasses](https://codeforces.com/contest/1915/problem/E) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1915/E%20-%20Romantic%20Glasses/solution.java) |
 | 1931C | [Make Equal Again](https://codeforces.com/contest/1931/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1931/C%20-%20Make%20Equal%20Again/solution.cpp) |
 | 1931D | [Divisible Pairs](https://codeforces.com/contest/1931/problem/D) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1931/D%20-%20Divisible%20Pairs/solution.java) |
+| 1968A | [Maximize?](https://codeforces.com/contest/1968/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1968/A%20-%20Maximize%3F/solution.java) |
 | 1996A | [Legs](https://codeforces.com/contest/1996/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1996/A%20-%20Legs/solution.java) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2009/A%20-%20Minimize!/solution.cpp) |
@@ -801,6 +803,7 @@
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.java) |
 | 1931D | [Divisible Pairs](https://codeforces.com/contest/1931/problem/D) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1931/D%20-%20Divisible%20Pairs/solution.java) |
+| 1968A | [Maximize?](https://codeforces.com/contest/1968/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1968/A%20-%20Maximize%3F/solution.java) |
 | 2167D | [Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2167/D%20-%20Yet%20Another%20Array%20Problem/solution.cpp) |
 | 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.java) |
 | 2204C | [Spring](https://codeforces.com/contest/2204/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2204/C%20-%20Spring/solution.cpp) |
