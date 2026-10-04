@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 346 | 26 |
+| 347 | 26 |
 
 ---
 
@@ -29,7 +29,7 @@
 - [greedy](#greedy) (116)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (126)
-- [math](#math) (138)
+- [math](#math) (139)
 - [number theory](#number-theory) (37)
 - [probabilities](#probabilities) (2)
 - [schedules](#schedules) (1)
@@ -751,6 +751,7 @@
 | 1931C | [Make Equal Again](https://codeforces.com/contest/1931/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1931/C%20-%20Make%20Equal%20Again/solution.cpp) |
 | 1931D | [Divisible Pairs](https://codeforces.com/contest/1931/problem/D) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1931/D%20-%20Divisible%20Pairs/solution.java) |
 | 1968A | [Maximize?](https://codeforces.com/contest/1968/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1968/A%20-%20Maximize%3F/solution.java) |
+| 1980A | [Problem Generator](https://codeforces.com/contest/1980/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1980/A%20-%20Problem%20Generator/solution.java) |
 | 1996A | [Legs](https://codeforces.com/contest/1996/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1996/A%20-%20Legs/solution.java) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2009/A%20-%20Minimize!/solution.cpp) |
