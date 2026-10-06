@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 347 | 26 |
+| 348 | 26 |
 
 ---
 
@@ -16,9 +16,9 @@
 - [Uncategorized](#uncategorized) (19)
 - [binary search](#binary-search) (24)
 - [bitmasks](#bitmasks) (15)
-- [brute force](#brute-force) (67)
+- [brute force](#brute-force) (68)
 - [combinatorics](#combinatorics) (10)
-- [constructive algorithms](#constructive-algorithms) (49)
+- [constructive algorithms](#constructive-algorithms) (50)
 - [data structures](#data-structures) (25)
 - [dfs and similar](#dfs-and-similar) (3)
 - [dp](#dp) (31)
@@ -28,7 +28,7 @@
 - [graph matchings](#graph-matchings) (2)
 - [greedy](#greedy) (116)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (126)
+- [implementation](#implementation) (127)
 - [math](#math) (139)
 - [number theory](#number-theory) (37)
 - [probabilities](#probabilities) (2)
@@ -134,6 +134,7 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.cpp) |
 | 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/279/B%20-%20Books/solution.java) |
+| 300A | [Array](https://codeforces.com/contest/300/problem/A) | 1100 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/300/A%20-%20Array/solution.java) |
 | 320A | [Magic Numbers](https://codeforces.com/contest/320/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/320/A%20-%20Magic%20Numbers/solution.cpp) |
 | 327A | [Flipping Game](https://codeforces.com/contest/327/problem/A) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/327/A%20-%20Flipping%20Game/solution.java) |
 | 433A | [Kitahara Haruki's Gift](https://codeforces.com/contest/433/problem/A) | 1100 | [Java 8](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/433/A%20-%20Kitahara%20Haruki's%20Gift/solution.java) |
@@ -214,6 +215,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.java) |
+| 300A | [Array](https://codeforces.com/contest/300/problem/A) | 1100 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/300/A%20-%20Array/solution.java) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
 | 478B | [Random Teams](https://codeforces.com/contest/478/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/478/B%20-%20Random%20Teams/solution.java) |
 | 637B | [Chat Order](https://codeforces.com/contest/637/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/637/B%20-%20Chat%20Order/solution.java) |
@@ -531,6 +533,7 @@
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 8](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
 | 295A | [Greg and Array](https://codeforces.com/contest/295/problem/A) | 1400 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/295/A%20-%20Greg%20and%20Array/solution.java) |
+| 300A | [Array](https://codeforces.com/contest/300/problem/A) | 1100 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/300/A%20-%20Array/solution.java) |
 | 327A | [Flipping Game](https://codeforces.com/contest/327/problem/A) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/327/A%20-%20Flipping%20Game/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 339B | [Xenia and Ringroad](https://codeforces.com/contest/339/problem/B) | 1000 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/339/B%20-%20Xenia%20and%20Ringroad/solution.java) |
