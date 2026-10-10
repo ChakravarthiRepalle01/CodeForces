@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 350 | 26 |
+| 351 | 26 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [bitmasks](#bitmasks) (15)
 - [brute force](#brute-force) (68)
 - [combinatorics](#combinatorics) (10)
-- [constructive algorithms](#constructive-algorithms) (50)
+- [constructive algorithms](#constructive-algorithms) (51)
 - [data structures](#data-structures) (25)
 - [dfs and similar](#dfs-and-similar) (3)
 - [dp](#dp) (32)
@@ -29,7 +29,7 @@
 - [greedy](#greedy) (118)
 - [hashing](#hashing) (4)
 - [implementation](#implementation) (128)
-- [math](#math) (139)
+- [math](#math) (140)
 - [number theory](#number-theory) (37)
 - [probabilities](#probabilities) (2)
 - [schedules](#schedules) (1)
@@ -260,6 +260,7 @@
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [Java 8](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.java) |
 | 2067A | [Adjacent Digit Sums](https://codeforces.com/contest/2067/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2067/A%20-%20Adjacent%20Digit%20Sums/solution.cpp) |
 | 2123D | [Binary String Battle](https://codeforces.com/contest/2123/problem/D) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2123/D%20-%20Binary%20String%20Battle/solution.java) |
+| 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.java) |
 | 2210A | [A Simple Sequence](https://codeforces.com/contest/2210/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2210/A%20-%20A%20Simple%20Sequence/solution.java) |
 | 2218C | [The 67th Permutation Problem](https://codeforces.com/contest/2218/problem/C) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2218/C%20-%20The%2067th%20Permutation%20Problem/solution.cpp) |
 | 2231B | [Another Sorting Problem](https://codeforces.com/contest/2231/problem/B) | 1100 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2231/B%20-%20Another%20Sorting%20Problem/solution.java) |
@@ -770,6 +771,7 @@
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
 | 2167D | [Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2167/D%20-%20Yet%20Another%20Array%20Problem/solution.cpp) |
+| 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.java) |
 | 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.cpp) |
 | 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.java) |
 | 2204C | [Spring](https://codeforces.com/contest/2204/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2204/C%20-%20Spring/solution.cpp) |
