@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 354 | 26 |
+| 356 | 26 |
 
 ---
 
@@ -28,13 +28,13 @@
 - [graph matchings](#graph-matchings) (2)
 - [greedy](#greedy) (119)
 - [hashing](#hashing) (4)
-- [implementation](#implementation) (129)
-- [math](#math) (141)
-- [number theory](#number-theory) (37)
+- [implementation](#implementation) (130)
+- [math](#math) (142)
+- [number theory](#number-theory) (38)
 - [probabilities](#probabilities) (2)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (46)
-- [strings](#strings) (43)
+- [strings](#strings) (44)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (22)
@@ -593,6 +593,7 @@
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
 | 1555C | [Coin Rows](https://codeforces.com/contest/1555/problem/C) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1555/C%20-%20Coin%20Rows/solution.java) |
 | 1598C | [Delete Two Elements](https://codeforces.com/contest/1598/problem/C) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1598/C%20-%20Delete%20Two%20Elements/solution.java) |
+| 1607A | [Linear Keyboard](https://codeforces.com/contest/1607/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1607/A%20-%20Linear%20Keyboard/solution.java) |
 | 1619A | [Square String?](https://codeforces.com/contest/1619/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1619/A%20-%20Square%20String%3F/solution.cpp) |
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
@@ -772,6 +773,7 @@
 | 2044C | [Hard Problem](https://codeforces.com/contest/2044/problem/C) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2044/C%20-%20Hard%20Problem/solution.java) |
 | 2067A | [Adjacent Digit Sums](https://codeforces.com/contest/2067/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2067/A%20-%20Adjacent%20Digit%20Sums/solution.cpp) |
 | 2070A | [FizzBuzz Remixed](https://codeforces.com/contest/2070/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2070/A%20-%20FizzBuzz%20Remixed/solution.cpp) |
+| 2125B | [Left and Down](https://codeforces.com/contest/2125/problem/B) | 900 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2125/B%20-%20Left%20and%20Down/solution.java) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
 | 2149A | [Be Positive](https://codeforces.com/contest/2149/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2149/A%20-%20Be%20Positive/solution.java) |
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
@@ -827,6 +829,7 @@
 | 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.java) |
 | 1931D | [Divisible Pairs](https://codeforces.com/contest/1931/problem/D) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1931/D%20-%20Divisible%20Pairs/solution.java) |
 | 1968A | [Maximize?](https://codeforces.com/contest/1968/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1968/A%20-%20Maximize%3F/solution.java) |
+| 2125B | [Left and Down](https://codeforces.com/contest/2125/problem/B) | 900 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2125/B%20-%20Left%20and%20Down/solution.java) |
 | 2167D | [Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2167/D%20-%20Yet%20Another%20Array%20Problem/solution.cpp) |
 | 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.java) |
 | 2204C | [Spring](https://codeforces.com/contest/2204/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2204/C%20-%20Spring/solution.cpp) |
@@ -924,6 +927,7 @@
 | 1506C | [Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1506/C%20-%20Double-ended%20Strings/solution.cpp) |
 | 1594C | [Make Them Equal](https://codeforces.com/contest/1594/problem/C) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1594/C%20-%20Make%20Them%20Equal/solution.java) |
 | 1606A | [AB Balance](https://codeforces.com/contest/1606/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1606/A%20-%20AB%20Balance/solution.cpp) |
+| 1607A | [Linear Keyboard](https://codeforces.com/contest/1607/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1607/A%20-%20Linear%20Keyboard/solution.java) |
 | 1619A | [Square String?](https://codeforces.com/contest/1619/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1619/A%20-%20Square%20String%3F/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.cpp) |
