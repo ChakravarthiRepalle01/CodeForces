@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 356 | 26 |
+| 357 | 26 |
 
 ---
 
@@ -28,7 +28,7 @@
 - [graph matchings](#graph-matchings) (2)
 - [greedy](#greedy) (119)
 - [hashing](#hashing) (4)
-- [implementation](#implementation) (130)
+- [implementation](#implementation) (131)
 - [math](#math) (142)
 - [number theory](#number-theory) (38)
 - [probabilities](#probabilities) (2)
@@ -542,6 +542,7 @@
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 8](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
 | 295A | [Greg and Array](https://codeforces.com/contest/295/problem/A) | 1400 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/295/A%20-%20Greg%20and%20Array/solution.java) |
 | 300A | [Array](https://codeforces.com/contest/300/problem/A) | 1100 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/300/A%20-%20Array/solution.java) |
+| 306A | [Candies](https://codeforces.com/contest/306/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/306/A%20-%20Candies/solution.java) |
 | 327A | [Flipping Game](https://codeforces.com/contest/327/problem/A) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/327/A%20-%20Flipping%20Game/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 339B | [Xenia and Ringroad](https://codeforces.com/contest/339/problem/B) | 1000 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/339/B%20-%20Xenia%20and%20Ringroad/solution.java) |
