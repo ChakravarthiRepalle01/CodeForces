@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 358 | 26 |
+| 359 | 26 |
 
 ---
 
@@ -26,7 +26,7 @@
 - [games](#games) (10)
 - [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (2)
-- [greedy](#greedy) (119)
+- [greedy](#greedy) (120)
 - [hashing](#hashing) (4)
 - [implementation](#implementation) (131)
 - [math](#math) (142)
@@ -495,6 +495,7 @@
 | 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2218/B%20-%20The%2067th%206-7%20Integer%20Problem/solution.cpp) |
 | 2218C | [The 67th Permutation Problem](https://codeforces.com/contest/2218/problem/C) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2218/C%20-%20The%2067th%20Permutation%20Problem/solution.cpp) |
 | 2225A | [A Number Between Two Others](https://codeforces.com/contest/2225/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2225/A%20-%20A%20Number%20Between%20Two%20Others/solution.java) |
+| 2227B | [Party Monster](https://codeforces.com/contest/2227/problem/B) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2227/B%20-%20Party%20Monster/solution.java) |
 | 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.java) |
 | 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.java) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.java) |
