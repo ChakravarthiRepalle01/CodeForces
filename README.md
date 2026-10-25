@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 360 | 26 |
+| 361 | 26 |
 
 ---
 
@@ -26,10 +26,10 @@
 - [games](#games) (10)
 - [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (2)
-- [greedy](#greedy) (120)
+- [greedy](#greedy) (121)
 - [hashing](#hashing) (4)
 - [implementation](#implementation) (132)
-- [math](#math) (143)
+- [math](#math) (144)
 - [number theory](#number-theory) (38)
 - [probabilities](#probabilities) (2)
 - [schedules](#schedules) (1)
@@ -403,6 +403,7 @@
 | 1285B | [Just Eat It!](https://codeforces.com/contest/1285/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1285/B%20-%20Just%20Eat%20It!/solution.java) |
 | 1294C | [Product of Three Numbers](https://codeforces.com/contest/1294/problem/C) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1294/C%20-%20Product%20of%20Three%20Numbers/solution.java) |
 | 1343C | [Alternating Subsequence](https://codeforces.com/contest/1343/problem/C) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1343/C%20-%20Alternating%20Subsequence/solution.java) |
+| 1358A | [Park Lighting](https://codeforces.com/contest/1358/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1358/A%20-%20Park%20Lighting/solution.java) |
 | 1359A | [Berland Poker](https://codeforces.com/contest/1359/problem/A) | 1000 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1359/A%20-%20Berland%20Poker/solution.java) |
 | 1372B | [Omkar and Last Class of Math](https://codeforces.com/contest/1372/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1372/B%20-%20Omkar%20and%20Last%20Class%20of%20Math/solution.java) |
 | 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.java) |
@@ -685,6 +686,7 @@
 | 1352B | [Same Parity Summands](https://codeforces.com/contest/1352/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1352/B%20-%20Same%20Parity%20Summands/solution.java) |
 | 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.java) |
 | 1355A | [Sequence with Digits](https://codeforces.com/contest/1355/problem/A) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1355/A%20-%20Sequence%20with%20Digits/solution.java) |
+| 1358A | [Park Lighting](https://codeforces.com/contest/1358/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1358/A%20-%20Park%20Lighting/solution.java) |
 | 1359A | [Berland Poker](https://codeforces.com/contest/1359/problem/A) | 1000 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1359/A%20-%20Berland%20Poker/solution.java) |
 | 1360D | [Buying Shovels](https://codeforces.com/contest/1360/problem/D) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1360/D%20-%20Buying%20Shovels/solution.java) |
 | 1363A | [Odd Selection](https://codeforces.com/contest/1363/problem/A) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1363/A%20-%20Odd%20Selection/solution.java) |
