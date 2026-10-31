@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 365 | 26 |
+| 366 | 26 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (19)
 - [binary search](#binary-search) (24)
 - [bitmasks](#bitmasks) (15)
-- [brute force](#brute-force) (70)
+- [brute force](#brute-force) (71)
 - [combinatorics](#combinatorics) (10)
 - [constructive algorithms](#constructive-algorithms) (53)
 - [data structures](#data-structures) (26)
@@ -28,7 +28,7 @@
 - [graph matchings](#graph-matchings) (2)
 - [greedy](#greedy) (123)
 - [hashing](#hashing) (4)
-- [implementation](#implementation) (135)
+- [implementation](#implementation) (136)
 - [math](#math) (146)
 - [number theory](#number-theory) (38)
 - [probabilities](#probabilities) (2)
@@ -153,6 +153,7 @@
 | 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.cpp) |
 | 1506C | [Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1506/C%20-%20Double-ended%20Strings/solution.cpp) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
+| 1535A | [Fair Playoff](https://codeforces.com/contest/1535/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1535/A%20-%20Fair%20Playoff/solution.java) |
 | 1555C | [Coin Rows](https://codeforces.com/contest/1555/problem/C) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1555/C%20-%20Coin%20Rows/solution.java) |
 | 1594C | [Make Them Equal](https://codeforces.com/contest/1594/problem/C) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1594/C%20-%20Make%20Them%20Equal/solution.java) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
@@ -602,6 +603,7 @@
 | 1504B | [Flip the Bits](https://codeforces.com/contest/1504/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1504/B%20-%20Flip%20the%20Bits/solution.java) |
 | 1506C | [Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1506/C%20-%20Double-ended%20Strings/solution.cpp) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
+| 1535A | [Fair Playoff](https://codeforces.com/contest/1535/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1535/A%20-%20Fair%20Playoff/solution.java) |
 | 1555C | [Coin Rows](https://codeforces.com/contest/1555/problem/C) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1555/C%20-%20Coin%20Rows/solution.java) |
 | 1598C | [Delete Two Elements](https://codeforces.com/contest/1598/problem/C) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1598/C%20-%20Delete%20Two%20Elements/solution.java) |
 | 1607A | [Linear Keyboard](https://codeforces.com/contest/1607/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1607/A%20-%20Linear%20Keyboard/solution.java) |
