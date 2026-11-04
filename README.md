@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 369 | 26 |
+| 370 | 28 |
 
 ---
 
@@ -16,16 +16,17 @@
 - [Uncategorized](#uncategorized) (19)
 - [binary search](#binary-search) (24)
 - [bitmasks](#bitmasks) (15)
-- [brute force](#brute-force) (71)
+- [brute force](#brute-force) (72)
 - [combinatorics](#combinatorics) (10)
-- [constructive algorithms](#constructive-algorithms) (53)
+- [constructive algorithms](#constructive-algorithms) (54)
 - [data structures](#data-structures) (26)
-- [dfs and similar](#dfs-and-similar) (3)
-- [dp](#dp) (34)
+- [dfs and similar](#dfs-and-similar) (4)
+- [dp](#dp) (35)
 - [dsu](#dsu) (2)
 - [games](#games) (10)
 - [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (2)
+- [graphs](#graphs) (1)
 - [greedy](#greedy) (124)
 - [hashing](#hashing) (4)
 - [implementation](#implementation) (137)
@@ -33,6 +34,7 @@
 - [number theory](#number-theory) (38)
 - [probabilities](#probabilities) (2)
 - [schedules](#schedules) (1)
+- [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (47)
 - [strings](#strings) (46)
 - [ternary search](#ternary-search) (1)
@@ -179,6 +181,7 @@
 | 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1914/D%20-%20Three%20Activities/solution.java) |
 | 1927D | [Find the Different Ones!](https://codeforces.com/contest/1927/problem/D) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1927/D%20-%20Find%20the%20Different%20Ones!/solution.java) |
 | 1931C | [Make Equal Again](https://codeforces.com/contest/1931/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1931/C%20-%20Make%20Equal%20Again/solution.cpp) |
+| 1948C | [Arrow Path](https://codeforces.com/contest/1948/problem/C) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1948/C%20-%20Arrow%20Path/solution.java) |
 | 1968A | [Maximize?](https://codeforces.com/contest/1968/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1968/A%20-%20Maximize%3F/solution.java) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2009/A%20-%20Minimize!/solution.cpp) |
 | 2010B | [Three Brothers](https://codeforces.com/contest/2010/problem/B) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2010/B%20-%20Three%20Brothers/solution.java) |
@@ -262,6 +265,7 @@
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.java) |
 | 1927B | [Following the String](https://codeforces.com/contest/1927/problem/B) | 900 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1927/B%20-%20Following%20the%20String/solution.java) |
+| 1948C | [Arrow Path](https://codeforces.com/contest/1948/problem/C) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1948/C%20-%20Arrow%20Path/solution.java) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [Java 8](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.java) |
 | 2067A | [Adjacent Digit Sums](https://codeforces.com/contest/2067/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2067/A%20-%20Adjacent%20Digit%20Sums/solution.cpp) |
 | 2123D | [Binary String Battle](https://codeforces.com/contest/2123/problem/D) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2123/D%20-%20Binary%20String%20Battle/solution.java) |
@@ -308,6 +312,7 @@
 |---|---------|------------|----------|
 | 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.java) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
+| 1948C | [Arrow Path](https://codeforces.com/contest/1948/problem/C) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1948/C%20-%20Arrow%20Path/solution.java) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | Unrated | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.java) |
 
 ### dp
@@ -343,6 +348,7 @@
 | 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1914/D%20-%20Three%20Activities/solution.java) |
 | 1926C | [Vlad and a Sum of Sum of Digits](https://codeforces.com/contest/1926/problem/C) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1926/C%20-%20Vlad%20and%20a%20Sum%20of%20Sum%20of%20Digits/solution.java) |
 | 1927D | [Find the Different Ones!](https://codeforces.com/contest/1927/problem/D) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1927/D%20-%20Find%20the%20Different%20Ones!/solution.java) |
+| 1948C | [Arrow Path](https://codeforces.com/contest/1948/problem/C) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1948/C%20-%20Arrow%20Path/solution.java) |
 | 1982C | [Boring Day](https://codeforces.com/contest/1982/problem/C) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1982/C%20-%20Boring%20Day/solution.java) |
 | 2104B | [Move to the End](https://codeforces.com/contest/2104/problem/B) | 1000 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2104/B%20-%20Move%20to%20the%20End/solution.java) |
 | 2114C | [Need More Arrays](https://codeforces.com/contest/2114/problem/C) | 1000 | [Java 8](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2114/C%20-%20Need%20More%20Arrays/solution.java) |
@@ -384,6 +390,12 @@
 |---|---------|------------|----------|
 | 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.java) |
 | 2069A | [Was there an Array?](https://codeforces.com/contest/2069/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2069/A%20-%20Was%20there%20an%20Array%3F/solution.cpp) |
+
+### graphs
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1948C | [Arrow Path](https://codeforces.com/contest/1948/problem/C) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1948/C%20-%20Arrow%20Path/solution.java) |
 
 ### greedy
 
@@ -873,6 +885,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.java) |
+
+### shortest paths
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1948C | [Arrow Path](https://codeforces.com/contest/1948/problem/C) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1948/C%20-%20Arrow%20Path/solution.java) |
 
 ### sortings
 
