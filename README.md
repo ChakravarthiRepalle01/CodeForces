@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 382 | 28 |
+| 383 | 28 |
 
 ---
 
@@ -29,14 +29,14 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (129)
 - [hashing](#hashing) (4)
-- [implementation](#implementation) (144)
+- [implementation](#implementation) (145)
 - [math](#math) (150)
 - [number theory](#number-theory) (38)
 - [probabilities](#probabilities) (2)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (51)
-- [strings](#strings) (47)
+- [sortings](#sortings) (52)
+- [strings](#strings) (48)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (22)
@@ -557,6 +557,7 @@
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Java 8](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/118/A%20-%20String%20Task/solution.java) |
 | 131A | [cAPS lOCK](https://codeforces.com/contest/131/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/131/A%20-%20cAPS%20lOCK/solution.cpp) |
 | 133A | [HQ9+](https://codeforces.com/contest/133/problem/A) | 900 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/133/A%20-%20HQ9%2B/solution.java) |
+| 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.java) |
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.java) |
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.cpp) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
@@ -912,6 +913,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.java) |
 | 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/160/A%20-%20Twins/solution.java) |
 | 230A | [Dragons](https://codeforces.com/contest/230/problem/A) | 1000 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/230/A%20-%20Dragons/solution.java) |
 | 276C | [Little Girl and Maximum Sum](https://codeforces.com/contest/276/problem/C) | 1500 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/276/C%20-%20Little%20Girl%20and%20Maximum%20Sum/solution.java) |
@@ -976,6 +978,7 @@
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Java 8](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/118/A%20-%20String%20Task/solution.java) |
 | 131A | [cAPS lOCK](https://codeforces.com/contest/131/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/131/A%20-%20cAPS%20lOCK/solution.cpp) |
+| 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.java) |
 | 208A | [Dubstep](https://codeforces.com/contest/208/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/208/A%20-%20Dubstep/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
