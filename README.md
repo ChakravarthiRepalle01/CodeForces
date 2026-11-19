@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 381 | 28 |
+| 382 | 28 |
 
 ---
 
@@ -21,13 +21,13 @@
 - [constructive algorithms](#constructive-algorithms) (54)
 - [data structures](#data-structures) (26)
 - [dfs and similar](#dfs-and-similar) (4)
-- [dp](#dp) (35)
+- [dp](#dp) (36)
 - [dsu](#dsu) (2)
 - [games](#games) (10)
 - [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (2)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (128)
+- [greedy](#greedy) (129)
 - [hashing](#hashing) (4)
 - [implementation](#implementation) (144)
 - [math](#math) (150)
@@ -328,6 +328,7 @@
 | 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.java) |
 | 665C | [Simple Strings](https://codeforces.com/contest/665/problem/C) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/665/C%20-%20Simple%20Strings/solution.java) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 8](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
+| 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.java) |
 | 1097B | [Petr and a Combination Lock](https://codeforces.com/contest/1097/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1097/B%20-%20Petr%20and%20a%20Combination%20Lock/solution.java) |
 | 1178B | [WOW Factor](https://codeforces.com/contest/1178/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1178/B%20-%20WOW%20Factor/solution.java) |
 | 1206B | [Make Product Equal One](https://codeforces.com/contest/1206/problem/B) | 900 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1206/B%20-%20Make%20Product%20Equal%20One/solution.java) |
@@ -420,6 +421,7 @@
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.java) |
 | 545D | [Queue](https://codeforces.com/contest/545/problem/D) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/545/D%20-%20Queue/solution.java) |
 | 665C | [Simple Strings](https://codeforces.com/contest/665/problem/C) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/665/C%20-%20Simple%20Strings/solution.java) |
+| 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.java) |
 | 1285B | [Just Eat It!](https://codeforces.com/contest/1285/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1285/B%20-%20Just%20Eat%20It!/solution.java) |
 | 1294C | [Product of Three Numbers](https://codeforces.com/contest/1294/problem/C) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1294/C%20-%20Product%20of%20Three%20Numbers/solution.java) |
 | 1311A | [Add Odd or Subtract Even](https://codeforces.com/contest/1311/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1311/A%20-%20Add%20Odd%20or%20Subtract%20Even/solution.java) |
