@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 385 | 28 |
+| 386 | 28 |
 
 ---
 
@@ -14,9 +14,9 @@
 
 - [*special](#special) (3)
 - [Uncategorized](#uncategorized) (19)
-- [binary search](#binary-search) (24)
+- [binary search](#binary-search) (25)
 - [bitmasks](#bitmasks) (15)
-- [brute force](#brute-force) (73)
+- [brute force](#brute-force) (74)
 - [combinatorics](#combinatorics) (10)
 - [constructive algorithms](#constructive-algorithms) (54)
 - [data structures](#data-structures) (26)
@@ -29,8 +29,8 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (130)
 - [hashing](#hashing) (4)
-- [implementation](#implementation) (146)
-- [math](#math) (151)
+- [implementation](#implementation) (147)
+- [math](#math) (152)
 - [number theory](#number-theory) (38)
 - [probabilities](#probabilities) (2)
 - [schedules](#schedules) (1)
@@ -86,6 +86,7 @@
 | 600B | [Queries about less or equal elements](https://codeforces.com/contest/600/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/600/B%20-%20Queries%20about%20less%20or%20equal%20elements/solution.java) |
 | 637B | [Chat Order](https://codeforces.com/contest/637/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/637/B%20-%20Chat%20Order/solution.java) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 8](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
+| 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.java) |
 | 816B | [Karen and Coffee](https://codeforces.com/contest/816/problem/B) | 1400 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/816/B%20-%20Karen%20and%20Coffee/solution.java) |
 | 1328B | [K-th Beautiful String](https://codeforces.com/contest/1328/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1328/B%20-%20K-th%20Beautiful%20String/solution.java) |
 | 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.java) |
@@ -145,6 +146,7 @@
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/479/A%20-%20Expression/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 629B | [Far Relative’s Problem](https://codeforces.com/contest/629/problem/B) | 1100 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/629/B%20-%20Far%20Relative%E2%80%99s%20Problem/solution.java) |
+| 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.java) |
 | 1097B | [Petr and a Combination Lock](https://codeforces.com/contest/1097/problem/B) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1097/B%20-%20Petr%20and%20a%20Combination%20Lock/solution.java) |
 | 1328B | [K-th Beautiful String](https://codeforces.com/contest/1328/problem/B) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1328/B%20-%20K-th%20Beautiful%20String/solution.java) |
 | 1355A | [Sequence with Digits](https://codeforces.com/contest/1355/problem/A) | 1200 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1355/A%20-%20Sequence%20with%20Digits/solution.java) |
@@ -607,6 +609,7 @@
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 8](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
+| 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.java) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
 | 816B | [Karen and Coffee](https://codeforces.com/contest/816/problem/B) | 1400 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/816/B%20-%20Karen%20and%20Coffee/solution.java) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
@@ -718,6 +721,7 @@
 | 598A | [Tricky Sum](https://codeforces.com/contest/598/problem/A) | 900 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/598/A%20-%20Tricky%20Sum/solution.java) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
+| 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.java) |
 | 1141A | [Game 23](https://codeforces.com/contest/1141/problem/A) | 1000 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1141/A%20-%20Game%2023/solution.java) |
 | 1203C | [Common Divisors](https://codeforces.com/contest/1203/problem/C) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1203/C%20-%20Common%20Divisors/solution.java) |
 | 1294C | [Product of Three Numbers](https://codeforces.com/contest/1294/problem/C) | 1300 | [Java 21](https://github.com/ChakravarthiRepalle01/CodeForces/blob/HEAD/1294/C%20-%20Product%20of%20Three%20Numbers/solution.java) |
